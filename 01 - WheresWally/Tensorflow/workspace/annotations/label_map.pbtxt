@@ -1,0 +1,5 @@
+item {
+    name: "document",
+    id: 1,
+    display_name: "document"
+}
