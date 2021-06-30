@@ -4,7 +4,7 @@
 
 **1.** Clone do repositório
 ```bash
-git clone https://github.com/AlfredoFilho/teste-ia-Private && cd "teste-ia-Private/02 - SMSSpamDetection"
+git clone https://github.com/AlfredoFilho/nuveo-teste-ia && cd "nuveo-teste-ia/02 - SMSSpamDetection"
 ```
 
 **2.** Criar e ativar um ambiente: (Pulável se preferir instalar na máquina)
