@@ -30,7 +30,7 @@ is_spam = SpamDetect.is_spam(stringSms)
 ```
 **Nota**:
 O arquivo python precisa estar na pasta `02 - SMSSpamDetection`, caso crie em outro diretório, precisará mudar o import da primeira linha
-<br><br>Há um [arquivo de exemplo](https://github.com/AlfredoFilho/teste-ia-Private/blob/main/02%20-%20SMSSpamDetection/ExampleOfUse.py) no diretório, para testá-lo:
+<br><br>Há um [arquivo de exemplo](https://github.com/AlfredoFilho/nuveo-teste-ia/blob/main/02%20-%20SMSSpamDetection/ExampleOfUse.py) no diretório, para testá-lo:
 ```bash
 python3 ExampleOfUse.py
 ```
