@@ -15,10 +15,10 @@ O modelo escolhido marcava a box envolta do wally apenas na horizontal, então o
 </p>
 
 ### Respostas
-- [Imagens com wallys detectados e centróides marcados]("/Images Predicted with Centroid/")
+- [Imagens com wallys detectados e centróides marcados](https://github.com/AlfredoFilho/nuveo-teste-ia/tree/main/01%20-%20WheresWally/Images%20Predicted%20with%20Centroid)
 - [CSV de entrega com centróides](wheres_wally_train.csv)
 
 ## Arquivos do retreino
 Código usado para retreino do modelo: [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-nDvp6VEyX1-s4ReSluXsUQE23oRKGsD?usp=sharing)
 
-Ou o Jupyter Notebook: [Google Colab - Train_Model_Spam.ipynb](Google Colab - Train_Model_Spam.ipynb)
+Ou o Jupyter Notebook: [Google Colab - Train_Model_Spam.ipynb](https://github.com/AlfredoFilho/nuveo-teste-ia/blob/main/01%20-%20WheresWally/Google%20Colab%20-%20Training_and_Detection_Wally.ipynb)

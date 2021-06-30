@@ -45,4 +45,4 @@ python3 test_spamdetection.py
 ## Arquivos de treino
 Código usado para treino do modelo: [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/130poRnYzaHV1JJId7acQZ15F_qBAYBTY?usp=sharing)
 
-Ou o Jupyter Notebook: [Google Colab - Train_Model_Spam.ipynb](https://github.com/AlfredoFilho/teste-ia-Private/blob/main/02%20-%20SMSSpamDetection/Google%20Colab%20-%20Train_Model_Spam.ipynb)
+Ou o Jupyter Notebook: [Google Colab - Train_Model_Spam.ipynb](https://github.com/AlfredoFilho/nuveo-teste-ia/blob/main/02%20-%20SMSSpamDetection/Google%20Colab%20-%20Train_Model_Spam.ipynb)
